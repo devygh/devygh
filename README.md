@@ -3,7 +3,7 @@
 
 
 ## 🌐 Социалки:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/thedevy.bsky.social) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/f5c3Z9kWJc) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/devydairy)
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/thedevy.bsky.social) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/f5c3Z9kWJc) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/devydiary)
 
 # 💻 Что умею:
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
@@ -17,7 +17,7 @@
 # 📊 Гитхаб Статы:
 ![](https://github-readme-stats.vercel.app/api?username=devygh&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=devygh&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devygh&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devygh&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=devygh&icon=2&color=2)](https://visitcount.itsvg.in)
